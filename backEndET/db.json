@@ -1,0 +1,25 @@
+{
+  "expense": [
+    {
+      "id": "1",
+      "date": "2023-12-21",
+      "product": "Bike Repair",
+      "price": 1000,
+      "payee": "Rahul"
+    },
+    {
+      "id": "2",
+      "date": "2023-12-22",
+      "product": "Movie",
+      "price": 1044,
+      "payee": "Rahul"
+    },
+    {
+      "id": "3",
+      "date": "2023-12-22",
+      "product": "Vegetables",
+      "price": 366,
+      "payee": "Rames"
+    }
+  ]
+}
